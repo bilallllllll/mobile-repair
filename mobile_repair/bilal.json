@@ -1,0 +1,1124 @@
+{
+	"iphone": [{
+			"main_image": "src='https://newrepair.mycellphonesforless.com/uploads/1603721580_2020-10-26.png'"
+		},
+
+		{
+			"name": "iphone 11 pro max",
+			"image": " <img src='https://newrepair.mycellphonesforless.com/uploads/1603719929_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone 11 pro ",
+			"image": " <img src='https://newrepair.mycellphonesforless.com/uploads/1603719947_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone 11",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603719967_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone Xs",
+			"image": " <img src='https://newrepair.mycellphonesforless.com/uploads/1603719994_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone X",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603720013_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone Xr",
+			"image": " <img src='https://newrepair.mycellphonesforless.com/uploads/1603720052_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone 8 plus",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603720484_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone 8",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603720196_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone 7 plus",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603720238_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "iphone 7",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603720265_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "  iphone 6s plus",
+			"image": " <img src='https://newrepair.mycellphonesforless.com/uploads/1603720287_2020-10-26.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$150",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$100",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "battery",
+					"price": "$75",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		}
+	],
+
+
+	"samsung": [{
+			"main_image": "src='https://newrepair.mycellphonesforless.com/uploads/1603723667_2020-10-26.jpg'"
+		},
+
+		{
+			"name": "note 20 ultra 5g",
+			"image": "<img src=https://newrepair.mycellphonesforless.com/uploads/1603820334_2020-10-27.png>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "note 20 5g",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603820366_2020-10-27.png'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "note 10 plus",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603820394_2020-10-27.png'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "note 10",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603820425_2020-10-27.png'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "note 9",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603820472_2020-10-27.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "note 8",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603820506_2020-10-27.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "samsung s20 ultra",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603820614_2020-10-27.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "samsung s20 plus",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603820788_2020-10-27.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "samsung s20 5g",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603820955_2020-10-27.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$300",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$80",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "samsung s10 plus",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603821217_2020-10-27.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$350",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "samsung s10 ",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603821238_2020-10-27.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$200",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		},
+		{
+			"name": "samsung s9",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603821296_2020-10-27.jpg'>",
+			"problems": [{
+					"f1": "broken screen",
+					"price": "$200",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+				},
+				{
+					"f1": "back glass",
+					"price": "$85",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+				}, {
+					"f1": "battery",
+					"price": "$60",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+				}
+			]
+		}
+	],
+
+
+	"android": [{
+			"main_image": "src='https://newrepair.mycellphonesforless.com/uploads/1603723762_2020-10-26.jpg'"
+		},
+		{
+			"name": "lg",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603722070_2020-10-26.jpg'>",
+			"sub_array": [{
+					"name": "lg stylo 6",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603852283_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$225",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$150",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$90",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg stylo 5",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603852318_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$250",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$150",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$80",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg stylo 4",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603852344_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$175",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$175",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$80",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg v30",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603852467_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$200",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$130",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$70",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg v35",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603852485_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$200",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$1000",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$80",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg v40",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603852509_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$175",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$130",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$100",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg v50",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603852543_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$175",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$120",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$75",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg k40",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603853040_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$150",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$100",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$70",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg k41",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603852607_2020-10-28.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$150",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$75",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$65",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg k50",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606671229_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$130",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$75",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$65",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg fortune 3",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606671535_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$100",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$75",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$50",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "lg aristo 3",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606671625_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$100",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}, {
+						"f1": "back glass",
+						"price": "$50",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735806_2021-01-15.PNG'>"
+					}, {
+						"f1": "battery",
+						"price": "$50",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735793_2021-01-15.PNG'>"
+					}]
+				}
+			]
+		},
+
+		{
+			"name": "motorolla",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603723401_2020-10-26.jpg'>",
+			"sub_array": [{
+					"name": "moto z4",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673164_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$175",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto z3 play",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673192_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$160",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto z3",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673232_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$150",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto z2 play",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673263_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$130",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto z2 play",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673314_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$100",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto z play",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673416_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$95",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto z",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673352_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$80",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto G fast",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673786_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$75",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto G power",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673837_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$60",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "moto G play",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1606673837_2020-11-29.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$50",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				}
+			]
+		},
+		{
+			"name": "google",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603723526_2020-10-26.jpg'>",
+			"sub_array": [{
+					"name": "pixel 4",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818165_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$200",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 4 XL",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818479_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$180",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 4A",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818521_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$170",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 3",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818542_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$150",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 3A ",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818571_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$175",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 3XL",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818667_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$150",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 3A XL",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818889_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$150",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 2",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818918_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$140",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 2XL",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818946_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$130",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel 1",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818946_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$120",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				},
+				{
+					"name": "pixel XL",
+					"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603818971_2020-10-27.jpg'>",
+					"problems": [{
+						"f1": "broken screen",
+						"price": "$100",
+						"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+					}]
+				}
+			]
+		}
+	],
+
+	"tablets": [{
+			"main_image": "src='https://newrepair.mycellphonesforless.com/uploads/1603724298_2020-10-26.png'"
+		},
+
+		{
+			"name": "ipad air 4",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603854983_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$500",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad air 3",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603855051_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$175",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad air 2",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603855149_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$200",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad air 1",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603890672_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$100",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad pro12.9(4th )",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603890712_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$600",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad pro12.9(3th )",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891441_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$400",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad pro12.9(1th )",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891296_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$200",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad pro12.9(2 th )",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891530_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$250",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad pro 9.7",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891566_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$300",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad pro 10.5",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891594_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$150",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad pro 11(2018)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891637_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$300",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad pro 11(2020)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891754_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$500",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad 8",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891777_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$99",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		},
+		{
+			"name": "ipad 6",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603891794_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken screen",
+				"price": "$85",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1610735817_2021-01-15.PNG'>"
+			}]
+		}
+	],
+
+	"watches": [
+
+		{
+			"main_image": "src='https://newrepair.mycellphonesforless.com/uploads/1603724477_2020-10-26.png'"
+		},
+
+		{
+			"name": "series 1(42mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603892857_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$200",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 1(38mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603892874_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$150",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 2(42mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893190_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$175",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 2(38mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893210_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$1800",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 3(42mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893246_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$250",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 3(38mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893246_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$300",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 4(40mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893320_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$350",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 4(44mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893360_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$400",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 5(44mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893781_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$400",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 5(40mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893807_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$425",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 6(40mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893896_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$450",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		},
+		{
+			"name": "series 6(44mm)",
+			"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603893909_2020-10-28.jpg'>",
+			"problems": [{
+				"f1": "broken i watch glass",
+				"price": "$475",
+				"image": "<img src='https://newrepair.mycellphonesforless.com/uploads/1603907607_2020-10-28.png'>"
+			}]
+		}
+	]
+}
